@@ -1,0 +1,7 @@
+{% extends 'blog/base.html' %}
+{% block title %}Random Blog{% endblock %}
+{% block content %}
+  <h2>Random Blog</h2>
+  <img src="{{ image_url }}" alt="blog image" style="max-width:400px;">
+  <p>{{ blog_text }}</p>
+{% endblock %}

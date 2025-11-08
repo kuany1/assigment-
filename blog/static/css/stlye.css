@@ -1,0 +1,6 @@
+body{font-family:Arial,Helvetica,sans-serif;margin:40px;background:#f7f7f7;}
+header{background:#0c4b33;color:white;padding:15px 30px;}
+header h1{margin:0;font-size:1.8em;}
+header a{color:white;text-decoration:none;}
+nav a{color:#ffd843;margin-right:10px;}
+main{background:white;padding:30px;margin-top:10px;border-radius:4px;}
